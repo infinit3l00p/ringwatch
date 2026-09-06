@@ -4,6 +4,14 @@
 
 ![RingWatch Dashboard](docs/screenshots/dashboard.png)
 
+### Full monitoring view — all 19 sections
+
+![All sections](docs/screenshots/dashboard-full.png)
+
+### Live charts — power consumption, MEI memory, timestorm detection, PMT telemetry
+
+![Graphs and charts](docs/screenshots/graphs.png)
+
 
 Monitors Intel Management Engine (ME/CSME) activity in real-time.
 Read-only, zero risk — no system modifications.
