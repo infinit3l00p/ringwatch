@@ -1,5 +1,10 @@
 # RingWatch — Real-Time Ring -3 Monitor
 
+## Dashboard
+
+![RingWatch Dashboard](docs/screenshots/dashboard.png)
+
+
 Monitors Intel Management Engine (ME/CSME) activity in real-time.
 Read-only, zero risk — no system modifications.
 
